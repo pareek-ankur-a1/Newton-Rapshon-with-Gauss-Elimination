@@ -1,2 +1,2 @@
-# Newton-Rapshon-with-Gauss-Elimination
+# Newton-Raphson-with-Gauss-Elimination
 EE401
